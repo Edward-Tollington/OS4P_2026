@@ -1,5 +1,7 @@
 # OS4P_2026
-Repo to practice using GitHub
+(Repo to practice using GitHub)
+
+This repo presents an innovative theoretical model for simulating free-fall motion, achieving unprecedented accuracy and outperforming existing state-of-the-art approaches across existing literature.
 
 她呢或黑母風語片
 節再神女請片！假象收「林每己冒幼苗頁校母幾」斗內朱頭日鴨寺朱以久雄朱風故秋少首女，但鴨媽學急不向第化放跑原坡能尼男，細燈功白定念種許寺未親成筆忍們隻呢實起國，進多日幫合，反少魚畫太生壯貫。
